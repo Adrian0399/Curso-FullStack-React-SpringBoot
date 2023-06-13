@@ -1,0 +1,1 @@
+export const Nick = ({nick}) => (<div>{nick}</div>);
